@@ -31,7 +31,7 @@ void main() {
 class DicePage extends StatefulWidget {
   @override
   _DicePageState createState() => _DicePageState();
-}git
+}
 
 class _DicePageState extends State<DicePage> {
   int d4 = 4;
